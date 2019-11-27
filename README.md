@@ -1,4 +1,7 @@
 # PyInfect
+
+### Disclaimer: All information provided are for educational purposes only. The information related to ethical hacking and information security found on this page are not meant to be used maliciously/illegally and the author is not responsible for any misuse of the provided information.
+
 Backdoor any .py file - Backdoor implanter for OS X & Linux - Compatible with EggShell!
 
 # Description
