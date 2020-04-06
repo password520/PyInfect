@@ -52,7 +52,7 @@ def main():
     printY( [" | |   | |_| |", " _| |_| | | | ||  __/ (__| |_ "] )
     printY( [" |_|    \__, |", "|_____|_| |_|_| \___|\___|\__|"] )
     printY( ["         __/ |", "                              "] ),
-    printY( ["        |___/ "," "+color['BLUE']+"Created by "+color['MAGENTA']+"@0xCoto"+color['BLUE']+" & "+color['MAGENTA']+"@danbatiste"] )
+    printY( ["        |___/ "," "+color['BLUE']+"Created by "+color['MAGENTA']+"@0xCoto"+color['BLUE']] )
     print()
     print(''.join( [color['RED'], 'Backdoor ', color['GREEN'], 'any ', color['YELLOW'], '.py ', color['GREEN'], 'file', color['BLUE'], ' -', color['GREEN'], ' Backdoor implanter for ', color['MAGENTA'], 'OS X', color['GREEN'], ' & ', color['MAGENTA'], 'Linux', color['GREEN'], ' ', color['BLUE'], '-', color['GREEN'],' Compatible with ', color['UNDERLINE_BLUE'], 'EggShell', color['DEFAULT'], color['GREEN'], '!', color['DEFAULT'],'\n']) )
 
