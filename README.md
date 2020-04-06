@@ -10,7 +10,7 @@ PyInfect is a tool that allows you to create and implant a backdoor on any .py f
 PyInfect is Compatible with Python versions 2.x and 3.x.
 
 # Preview
-![Preview](http://i.imgur.com/BXAfw0d.png)
+![Preview](res/preview.png)
 
 # Getting Started
 #### Installation
